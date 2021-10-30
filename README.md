@@ -1,2 +1,2 @@
 # SmartPharm
-This is a complete Medicine Delivery Website.
+This is a  Medicine Delivery Website.
